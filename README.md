@@ -1,20 +1,20 @@
-h1 align="center">Hi 👋, I'm Shyla Jahan</h1>
-<h3 align="center">A passionate Computer Technology student and web development learner</h3>
-​<p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=shylajahan81" alt="shylajahan81" />
-</a>
-</p>
-​🔭 About Me
-​🔭 I’m currently working on building responsive web applications and full-stack projects.
-​🌱 I’m currently learning JavaScript, React, Next.js, and TypeScript.
-​🎯 My goal is to build real-world software solutions and grow as a software engineer.
 
-​🛠️ Tech Stack & Tools
-​Languages: JavaScript, TypeScript, HTML5, CSS3
-​Libraries & Frameworks: React.js, Next.js, Tailwind CSS
-​Tools & Platforms: Git, GitHub, VS Code, Netlify
-​📊 GitHub Stats
-​<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shylajahan81&show_icons=true&theme=radical" alt="shylajahan81" />
+​<h1 align="center">Hi 👋, I'm Shyla Jahan</h1>
+<h3 align="center">A passionate Computer Science student and web development learner</h3>
+
+- 🔭 I’m currently working on [Devstack](https://github.com/shylajahan81/B14-A05-Devstack)
+
+- 🌱 I’m currently learning **HTML,CSS, JavaScript, TypeScript,React,Next.js**
+
+- 💬 Ask me about **HTML,CSS, Tailwind CSS ,javascript**
+
+- 📫 How to reach me **shylajahan81@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shyla-jahan-020761434?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shyla-jahan-020761434?utm_source=share_via&utm_content=profile&utm_medium=member_android" height="30" width="40" /></a>
 </p>
-​🔗 Connect with me
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
