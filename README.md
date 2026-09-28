@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shyla Jahan</h1>
+<p align="center">
+  <img src="https://avatars.githubusercontant.com/u/134?=4" width="300" />
+</p>
+<h1 align="center">
+  Hi 👋, I'm Shyla Jahan</h1>
 <h3 align="center">A passionate Computer Science student and web development learner</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shylajahan81" alt="shylajahan81" /></a> </p>
